@@ -167,4 +167,5 @@ Output :
 
 
 # Result:
- Include your result here
+   Thus,the Data Visualization using matplot python library  performed for the given datas.
+
